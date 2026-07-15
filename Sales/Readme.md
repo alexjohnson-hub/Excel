@@ -192,6 +192,4 @@ Through this project, I gained practical experience in:
 - Creating business-focused visualizations
 - Presenting actionable insights through data
 
----
 
-**GitHub:** https://github.com/yourusername
