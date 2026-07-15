@@ -6,8 +6,6 @@ The **Sales Distribution Dashboard** is an end-to-end data analytics project dev
 
 The project demonstrates the complete data analysis lifecycle, including data extraction, transformation, cleaning, analysis, visualization, and dashboard development.
 
-> **Note:** The dataset used in this project was provided by **Kompetenzen** as part of a training program. Due to ownership restrictions, the original dataset is not included in this repository.
-
 ---
 
 # 🎯 Project Objectives
