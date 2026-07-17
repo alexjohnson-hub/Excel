@@ -165,27 +165,7 @@ This project demonstrates practical experience in:
 
 # 📷 Dashboard Preview
 
-![Logistics Dashboard](Dashboard/dashboard.png)
-
----
-
-# 📂 Repository Structure
-
-```
-Logistics-Supply-Chain-Dashboard-Excel
-│
-├── Dashboard
-│   └── dashboard.png
-│
-├── Dataset
-│   └── dataset_information.md
-│
-├── Logistics & Supply Chain Analysis.xlsx
-│
-├── README.md
-│
-└── LICENSE
-```
+![Logistics Dashboard](logistics-supply-chain-dashboard.png)
 
 ---
 
@@ -217,8 +197,3 @@ Through this project, I gained practical experience in:
 - Developing KPI-based business reports
 - Converting operational data into actionable business insights
 
----
-
-## 📌 Disclaimer
-
-This project was created for educational and portfolio purposes. The dataset was obtained from Kaggle and analyzed to demonstrate practical data analytics, visualization, and business intelligence skills using Microsoft Excel.
