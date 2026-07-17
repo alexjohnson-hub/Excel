@@ -165,7 +165,7 @@ This project demonstrates practical experience in:
 
 # 📷 Dashboard Preview
 
-![Logistics Dashboard](Dashboard/dashboard.png)
+![Logistics Dashboard](logistics-supply-chain-dashboard.png)
 
 ---
 
