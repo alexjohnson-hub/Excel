@@ -151,27 +151,7 @@ This project demonstrates practical experience in:
 
 # 📷 Dashboard Preview
 
-![Sales Distribution Dashboard](Dashboard/dashboard.png)
-
----
-
-# 📂 Repository Structure
-
-```
-Sales-Distribution-Dashboard-Excel
-│
-├── Dashboard
-│   └── dashboard.png
-│
-├── Dataset
-│   └── README.md
-│
-├── Sales Distribution Dashboard.xlsx
-│
-├── README.md
-│
-└── LICENSE
-```
+![Sales Distribution Dashboard](sales-distribution-dashboard.png)
 
 ---
 
