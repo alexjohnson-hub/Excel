@@ -104,7 +104,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](FNP%20Sales%20Analysis/fnp-sales-dashboard.png)
+![Dashboard](FNP-Sales-Analysis-Dashboard.png)
 
 ---
 
